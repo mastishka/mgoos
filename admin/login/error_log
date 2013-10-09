@@ -1,0 +1,12 @@
+[07-Oct-2010 18:38:00] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/mgooscom/public_html/admin/lib/user_manager.php on line 11
+[07-Oct-2010 18:38:00] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home1/mgooscom/public_html/admin/lib/user_manager.php on line 18
+[07-Oct-2010 18:38:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/mgooscom/public_html/admin/lib/user_manager.php on line 11
+[07-Oct-2010 18:38:01] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home1/mgooscom/public_html/admin/lib/user_manager.php on line 18
+[21-Jun-2011 04:15:19] PHP Warning:  mysql_close(): 9 is not a valid MySQL-Link resource in /home1/mgooscom/public_html/beta/admin/lib/admin_manager.php on line 18
+[21-Jun-2011 04:16:01] PHP Warning:  mysql_close(): 9 is not a valid MySQL-Link resource in /home1/mgooscom/public_html/beta/admin/lib/admin_manager.php on line 18
+[21-Jun-2011 04:18:49] PHP Warning:  mysql_close(): 9 is not a valid MySQL-Link resource in /home1/mgooscom/public_html/beta/admin/lib/admin_manager.php on line 18
+[21-Jun-2011 04:51:19] PHP Warning:  mysql_close(): 9 is not a valid MySQL-Link resource in /home1/mgooscom/public_html/beta/admin/lib/admin_manager.php on line 18
+[09-Jul-2011 00:39:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/mgooscom/public_html/beta/admin/lib/user_manager.php on line 11
+[09-Jul-2011 00:39:38] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home1/mgooscom/public_html/beta/admin/lib/user_manager.php on line 18
+[01-Aug-2011 08:49:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/mgooscom/public_html/beta/admin/lib/user_manager.php on line 11
+[01-Aug-2011 08:49:51] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home1/mgooscom/public_html/beta/admin/lib/user_manager.php on line 18

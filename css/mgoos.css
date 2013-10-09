@@ -1,0 +1,92 @@
+/* --bold ----------------------*/
+.boldfont 
+{
+ font-weight:bold;  
+}
+
+/* --top table ----------------------*/
+.tdcolor
+{
+ text-align:center;
+ background-color:#FFCC00;
+}
+
+/* --bold ----------------------*/
+.thoughtfont
+{
+ font-weight:bold;
+ color:#339900;	
+}
+
+/* --new ----------------------*/
+.tdnew
+{
+ color:red;
+}
+
+/* --anchor ----------------------*/
+.anchor
+{
+
+}
+
+/* --mastishka ----------------------*/
+.mastishka
+{
+ font-size:0.8em 
+} 
+
+/* --size ----------------------*/
+.input
+{
+
+}
+
+.tbbar
+{
+ text-align:center;
+ background-color:#FFFF66;
+}
+
+.clrfont
+{
+ color:#339900;
+ font-weight:bold;
+}
+
+.clrbold
+{
+ color:#3333FF;
+ font-weight:bold;
+}
+
+.ifrmcolor
+{
+ color:#FF9900;
+ font-weight:bold;
+}
+ 
+
+ .indented
+ {
+   padding-left: 50pt;
+   padding-right: 20pt;
+ }
+
+
+.heading
+{
+  font-weight:bold;
+  font-size:2em;
+  text-align:center;
+}
+
+
+
+
+
+
+
+
+
+

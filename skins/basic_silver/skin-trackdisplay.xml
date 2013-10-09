@@ -1,0 +1,131 @@
+
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<skin version="2.0.0">
+
+	<!-- preloader -->
+	<preloader bgcolor="0x666666" x="50%" y="50%" width="50%" height="5">
+		<element id="INDICATOR" bgcolor="0xFFFFFF" width="100%" height="100%" />
+	</preloader>
+		
+		<!-- fonts -->
+		<font id="FONT1" src="pf-tempesta-seven.swf" />	
+		
+		<element y="71">
+		
+		<image src="ui-bg.jpg" width="100%" y="0" />
+		
+		<element width="100%" y="0" margin="3">
+
+			<button id="PLAY_PAUSE" toggle="true" src="b-play-pause.png" x="0" y="0" />
+			<button id="PREV" src="b-prev.png" x="19" y="0" />
+			<button id="NEXT" src="b-next.png" x="39" y="0" />
+						
+			<bar src="bar-timer-bg.png" x="100%" width="100%" margin="0 94 0 62"  />
+			
+			<element x="100%" width="5" margin="3 137 0 0">
+				<animation id="BUFFERING" visible="false" src="anim-loading.png" x="0" y="0" frames="10" speed="0.2" />
+				<image id="PLAYING" visible="false" src="icon-playing.gif" />
+				<image id="PAUSED" visible="false" src="icon-paused.gif" />
+				<image id="STOPPED" visible="false" src="icon-stopped.gif" />
+				<image id="ERROR" visible="false" src="icon-error.gif" />
+			</element>
+	
+			<!-- timer display -->
+			<textfield id="TIME" x="100%" y="0" margin="-2 98 0 0"
+				text="00:00" 
+				font="FONT1" 
+				font_color="0xFFFFFF" 
+				font_size="8" 
+			/>
+			
+			<!-- timer display -->
+			<textfield id="CUR_CREATORNAME_SONGNAME" y="0" width="100%" margin="-2 146 0 67" scroll="true"
+				text="Welcome to EP Player" 
+				font="FONT1" 
+				font_color="0xFFFF00" 
+				font_size="8" 
+			/>
+			
+			
+			<image src="visualization-bg.png" x="100%" width="81" height="17" margin="0 5 0 0" />      
+			<element x="100%" width="79" height="15" margin="1 6 0 0">
+				<visualization width="100%" height="100%">                    
+					<image id="FFT" src="fft.gif" width="100%" height="100%"/>
+					<image id="SCOPE" src="scope.gif" width="100%" height="100%" />
+					<image id="PEAK" src="fft.gif" width="100%" height="100%" />
+					<image id="WAVE" src="scope.gif" width="100%" height="100%" />
+				</visualization>
+			</element>
+	
+		</element>
+
+		<!-- playlist -->
+		<image src="bg.jpg" width="100%" height="100%" y="24" />
+		
+		<element y="24" width="100%" height="100%" margin="0">
+		
+			<scrollbox width="100%" height="100%" scroll_speed="58">
+				
+				<playlist width="100%" height="100%" >
+					<playlist_item width="100%" height="58" >
+					
+						<button id="PLAY" toggle="true" src="b-playlist.png" width="100%" />
+					
+						<!-- default album art -->
+						<image src="default-albumart.png" width="45" height="45" margin="6" />
+						<image id="ALBUM_ART_PLAYLIST" width="43" height="43" margin="7" />
+					
+						<textfield id="CREATORNAME" width="100%" margin="0 0 0 60" x="0%" y="9"
+							text="" 
+							font="FONT1"
+							font_color="0x55FFFFFF"
+							font_size="8"
+						/>
+						
+						<textfield id="SONGNAME" width="100%" margin="0 0 0 60" x="0%" y="24"
+							text="" 
+							font="FONT1"
+							font_color="0xFFFFFF"
+							font_size="8"
+						/>
+						
+						<button id="JSCALL" src="b-link.gif" x="100%" margin="20 10 0 0" />
+						
+					</playlist_item>
+				</playlist>
+				
+				<!-- vertical scrollbar -->
+				<scrollbar orientation="v" height="100%" width="10" x="100%">
+					<bar id="BACKGROUND" height="100%" src="scrollbar-y-bg.png" />
+					<bar id="HANDLE" src="scrollbar-y-handle.png" />
+				</scrollbar>
+				
+	
+				<animation id="LOADING_PLAYLIST" src="anim-loading.png" x="50%" y="50%" frames="10" speed="0.1" />
+				<image id="ERROR_PLAYLIST" visible="false" src="icon-error.gif" x="50%" y="50%" />
+									
+			</scrollbox>
+
+		</element>
+		
+		<image src="shadow-playlist.png" width="100%" height="15" y="24" />
+		
+		</element>
+		
+		<image src="track-display-bg.png" width="100%"  />
+		
+		<scrollbox width="100%" height="70" scroll_speed="70">
+			
+	   		<track_display id="TRACK_DISPLAY" width="2880" height="65">
+	     		<image id="WAVEFORM" src="track-display-fill.png" height="65" width="100%"  />
+	     		<image id="POSITION" src="track-display-position.png" height="65" />
+	   		</track_display>
+			
+			<scrollbar orientation="h" y="100%" width="100%" height="5">
+				<bar id="HANDLE" height="5" src="scrollbar-track-handle.png" />
+			</scrollbar>
+			   		
+	   	</scrollbox>
+		
+</skin>

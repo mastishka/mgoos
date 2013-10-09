@@ -1,0 +1,317 @@
+[11-Jun-2011 02:31:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User mgooscom_ritesh already has more than 'max_user_connections' active connections in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 5
+[11-Jun-2011 02:33:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User mgooscom_ritesh already has more than 'max_user_connections' active connections in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 5
+[11-Jun-2011 05:13:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User mgooscom_ritesh already has more than 'max_user_connections' active connections in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 5
+[11-Jun-2011 07:03:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User mgooscom_ritesh already has more than 'max_user_connections' active connections in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 5
+[20-Jun-2011 03:10:46] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/aap_ko_pehle_bi_kahin_dekha_hai/9(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 03:18:30] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/rehna_hai_tere_dil_mein/3(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 03:18:46] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/rehna_hai_tere_dil_mein/3(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 03:19:07] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/rehna_hai_tere_dil_mein/3(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 03:20:55] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/rehna_hai_tere_dil_mein/3(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 04:03:26] PHP Warning:  file_get_contents(http://www.bethelministries.org/media/sermons/070304ss-16.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 05:17:56] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/karma/karma1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 10:42:13] PHP Warning:  file_get_contents(http://sound.mp3pk.com/indian/the_killer/5(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:20:15] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/julie1975/julie4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:22:56] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/julie1975/julie4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:47:38] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/coolie_no1/coolieno1_3(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:47:41] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/coolie_no1/coolieno1_3(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:47:45] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/coolie_no1/coolieno1_3(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:47:51] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/coolie_no1/coolieno1_3(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:48:58] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/coolie_no1/coolieno1_3(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:49:01] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/coolie_no1/coolieno1_3(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:49:04] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/coolie_no1/coolieno1_3(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jun-2011 13:49:10] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/coolie_no1/coolieno1_3(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Jun-2011 00:14:27] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/anjam/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Jun-2011 00:24:41] PHP Warning:  file_get_contents(http://soundxx.mp3pk.com/indian/anjam/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Jun-2011 00:27:43] PHP Warning:  file_get_contents(http://soundxx.mp3pk.com/indian/anjam/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Jun-2011 00:31:05] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Jun-2011 10:57:06] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Jun-2011 10:57:30] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Jun-2011 10:57:36] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Jun-2011 12:06:39] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[22-Jun-2011 03:05:10] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/julie1975/julie4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[22-Jun-2011 03:05:18] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/julie1975/julie4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[22-Jun-2011 03:05:26] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/julie1975/julie4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[22-Jun-2011 12:52:27] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[22-Jun-2011 12:58:47] PHP Warning:  file_get_contents(http://sound.mp3pk.com/indian/tum_bin/6(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[24-Jun-2011 01:33:26] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/indian/tummile/tummile07(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[24-Jun-2011 18:45:06] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/kabhi_khushi_kabhi_gham/4(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[24-Jun-2011 18:45:59] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/kabhi_khushi_kabhi_gham/4(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Jun-2011 01:25:15] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_to_pagal_hai/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Jun-2011 03:28:15] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/barsaat2001/barsaat8(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Jun-2011 05:42:59] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Jun-2011 06:50:41] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/indian/charanon_ki_saugandh/cks03(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Jun-2011 06:58:57] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/indian/jeevan_ek_sanghursh/jes04(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[26-Jun-2011 01:54:35] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_chahta_hai/6(mp3pk.com).MP3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[26-Jun-2011 10:25:46] PHP Warning:  file_get_contents(http://soundxx.mp3pk.com/indian/fanaa/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[26-Jun-2011 11:13:46] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/pop_remix/50glorious_remixescd1/gloriousremixescd102(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[26-Jun-2011 11:18:15] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/bewafaa/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 01:38:24] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/chalte_chalte/3(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 01:38:55] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/chalte_chalte/3(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 07:14:42] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/kabhi_khushi_kabhi_gham/4(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 07:16:08] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/kabhi_khushi_kabhi_gham/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 08:39:36] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/indian/ijaazat/ijaazat01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 09:07:23] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/indian/ijaazat/ijaazat01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 09:08:41] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/indian/ijaazat/ijaazat01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 09:09:06] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/indian/ijaazat/ijaazat01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 09:10:40] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/indian/ijaazat/ijaazat01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jun-2011 09:13:41] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/indian/ijaazat/ijaazat01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[28-Jun-2011 05:47:16] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_to_pagal_hai/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[28-Jun-2011 11:47:43] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_chahta_hai/5(mp3pk.com).MP3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[28-Jun-2011 23:03:03] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/jaan_tere_naam/jtn1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[28-Jun-2011 23:04:29] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/jaan_tere_naam/jtn4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[28-Jun-2011 23:04:40] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/jaan_tere_naam/jtn4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 03:39:54] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/hum_saath_saath_hain/hssh3(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 04:03:25] PHP Warning:  file_get_contents(http://sound11.mp3pk.com/indian/hello/hello04(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection refused in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 04:03:27] PHP Warning:  file_get_contents(http://sound11.mp3pk.com/indian/hello/hello04(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection refused in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 04:03:28] PHP Warning:  file_get_contents(http://sound11.mp3pk.com/indian/hello/hello04(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection refused in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 06:02:04] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/kabhi_haan_kabhi_na/khkn6(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 07:05:36] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/bewafaa/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 21:07:44] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/hum_tum_pe_marte_hain/htpmh7(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 21:10:16] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/devdas/4(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 21:17:34] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dhp/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 21:20:54] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 21:25:48] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/baghban/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jun-2011 21:35:37] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/daddy/daddy2(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Jun-2011 03:15:17] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Jun-2011 03:15:59] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Jun-2011 11:52:15] PHP Warning:  file_get_contents(http://amiestreet.com/stream/song/i0YujLDtn-4x.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Temporarily Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Jul-2011 02:42:05] PHP Warning:  file_get_contents(http://www.PizzaComedy.com) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Jul-2011 02:43:09] PHP Warning:  file_get_contents(http://www.PizzaComedy.com) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Jul-2011 04:32:22] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_perdesi_ho_gaya/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Jul-2011 04:32:24] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_perdesi_ho_gaya/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Jul-2011 04:32:25] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_perdesi_ho_gaya/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Jul-2011 04:32:29] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_perdesi_ho_gaya/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Jul-2011 04:51:55] PHP Warning:  file_get_contents(http://soundxx.mp3pk.com/indian/chalte_chalte/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Jul-2011 21:12:01] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/barsaat2001/barsaat2(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Jul-2011 21:56:10] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/betaab1984/betaab4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[02-Jul-2011 08:23:55] PHP Warning:  file_get_contents(http://epakimusic.net/Music/EPM/Indian/Movies/Rang%20De%20Basanti/Khalbali%5BEpakiMusic.net%5D.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[02-Jul-2011 08:24:07] PHP Warning:  file_get_contents(http://epakimusic.net/Music/EPM/Indian/Movies/Rang%20De%20Basanti/Khalbali%5BEpakiMusic.net%5D.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[02-Jul-2011 08:24:09] PHP Warning:  file_get_contents(http://epakimusic.net/Music/EPM/Indian/Movies/Rang%20De%20Basanti/Khalbali%5BEpakiMusic.net%5D.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[02-Jul-2011 08:24:13] PHP Warning:  file_get_contents(http://epakimusic.net/Music/EPM/Indian/Movies/Rang%20De%20Basanti/Khalbali%5BEpakiMusic.net%5D.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[03-Jul-2011 04:19:01] PHP Warning:  file_get_contents(http://sound15.mp3pk.com/pop_remix/bandish_projekt_bhor/bandish_projekt01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[03-Jul-2011 23:33:12] PHP Warning:  file_get_contents(http://sound.mp3pk.com/indian/tum_bin/6(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[04-Jul-2011 23:30:28] PHP Warning:  file_get_contents(http://sound.mp3pk.com/indian/muskaan/muskaan3(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[05-Jul-2011 00:26:16] PHP Warning:  file_get_contents(http://sound1.mp3pk.com/artist/kishore_kumar/kk_dardbhara_afsana_vol10/dardbhara10vol2(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[05-Jul-2011 00:31:16] PHP Warning:  file_get_contents(http://sound1.mp3pk.com/artist/kishore_kumar/kk_dardbhara_afsana_vol10/dardbhara10vol2(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[08-Jul-2011 09:58:26] PHP Warning:  file_get_contents(http://www.bahrain2day.com/medialoader/files/BABYREMIX.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[08-Jul-2011 10:11:28] PHP Warning:  file_get_contents(http://www.bahrain2day.com/medialoader/files/BABYREMIX.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[09-Jul-2011 22:44:05] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[10-Jul-2011 14:00:38] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/devdas/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[12-Jul-2011 08:47:05] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/jaan_tere_naam/jtn1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[12-Jul-2011 08:47:16] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/jaan_tere_naam/jtn1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[12-Jul-2011 08:47:18] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/jaan_tere_naam/jtn1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[12-Jul-2011 08:47:22] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/jaan_tere_naam/jtn1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[15-Jul-2011 16:24:02] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/chori_chori_chupke_chupke/4(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[15-Jul-2011 16:25:01] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/chori_chori_chupke_chupke/4(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[18-Jul-2011 18:54:31] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/bewafaa/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[18-Jul-2011 19:01:44] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/bewafaa/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[19-Jul-2011 20:12:58] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/bewafaa/9(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jul-2011 11:37:42] PHP Warning:  file_get_contents(http://cdn1-84.projectplaylist.com/e1/static10/349/1935574.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jul-2011 22:03:56] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Jul-2011 23:01:59] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dilwale/3(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Jul-2011 08:59:11] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/baghban/8(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Jul-2011 09:00:16] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/baghban/8(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Jul-2011 09:00:20] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/baghban/8(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jul-2011 01:48:07] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/deewana/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jul-2011 23:52:31] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Jul-2011 23:52:50] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[28-Jul-2011 23:19:32] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/aashiq_banaya_aapne/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[29-Jul-2011 05:51:30] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Jul-2011 09:00:18] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Jul-2011 09:01:07] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Jul-2011 19:51:14] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/chaahat/3(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Jul-2011 20:21:54] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/chaahat/3(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Jul-2011 20:24:45] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/chaahat/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Aug-2011 03:16:38] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[01-Aug-2011 03:16:38] PHP Warning:  file_get_contents(http://ia311518.us.archive.org/1/items/Behind_The_Mike/Behind_The_Mike_41-01-12_ep17_Script_Writers.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[02-Aug-2011 04:58:47] PHP Warning:  file_get_contents(http://dl.mp3.zdn.vn/fsfsdfdsfdserwrwq3/6c04da071fb6560b499258b1b3c56652/4e25b810/5/34/5349496497fecc3f3387c79af6ec8e09.mp3?filename=Se%20Thuoc%20Ve%20Nhau%20-%20Khoi%20My.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 408 Request Timeout
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[06-Aug-2011 11:04:36] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/aa_ab_laut_chalen/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[09-Aug-2011 05:19:46] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[09-Aug-2011 07:07:12] PHP Warning:  file_get_contents(http://dl.mp3.zdn.vn/fsfsdfdsfdserwrwq3/0cc1d9aa357ad74b626fed2421d8a1bc/4e295830/e/dd/eddfbda8287c5e574f50417ccf53f0c1.mp3?filename=Unbreakable%20-%20Westlife.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 408 Request Timeout
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[09-Aug-2011 07:14:17] PHP Warning:  file_get_contents(http://dl.mp3.zdn.vn/fsfsdfdsfdserwrwq3/0cc1d9aa357ad74b626fed2421d8a1bc/4e295830/e/dd/eddfbda8287c5e574f50417ccf53f0c1.mp3?filename=Unbreakable%20-%20Westlife.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 408 Request Timeout
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[10-Aug-2011 09:28:28] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/karma/karma4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[11-Aug-2011 01:36:20] PHP Warning:  file_get_contents(http://sound18.mp3pk.com/indian/delhibelly/delhibelly01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[11-Aug-2011 01:39:11] PHP Warning:  file_get_contents(http://sound18.mp3pk.com/indian/delhibelly/delhibelly01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[11-Aug-2011 01:41:16] PHP Warning:  file_get_contents(http://sound18.mp3pk.com/indian/delhibelly/delhibelly01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[11-Aug-2011 01:41:27] PHP Warning:  file_get_contents(http://sound18.mp3pk.com/indian/delhibelly/delhibelly01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[11-Aug-2011 01:57:48] PHP Warning:  file_get_contents(http://sound14.mp3pk.com/indian/aadmi/aadmi05(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[11-Aug-2011 03:22:48] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/deewana/4(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[11-Aug-2011 07:46:30] PHP Warning:  file_get_contents(http://rasp.berrypun.net/cc/fauna_emptiness.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[11-Aug-2011 10:33:11] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/bewafaa/5(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[12-Aug-2011 14:20:55] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/hum_tum_pe_marte_hain/htpmh4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[12-Aug-2011 21:51:21] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/aa_ab_laut_chalen/7(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[13-Aug-2011 10:08:06] PHP Warning:  file_get_contents(http://sound6.mp3pk.com/indian/taare_zameen_par/taarezameenpar07(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[13-Aug-2011 10:11:43] PHP Warning:  file_get_contents(http://sound6.mp3pk.com/indian/taare_zameen_par/taarezameenpar01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[15-Aug-2011 02:30:28] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/kurukshetra/kurukshetra1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[15-Aug-2011 02:32:06] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/kurukshetra/kurukshetra1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[15-Aug-2011 02:32:31] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/kurukshetra/kurukshetra2(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[15-Aug-2011 02:32:51] PHP Warning:  file_get_contents(http://sound3.mp3pk.com/indianx/kurukshetra/kurukshetra4(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Aug-2011 00:47:33] PHP Warning:  file_get_contents(http://sound19.mp3pk.com/pakistani/jalpari/jalpari1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Aug-2011 00:48:50] PHP Warning:  file_get_contents(http://sound19.mp3pk.com/pakistani/jalpari/jalpari1(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Aug-2011 00:49:31] PHP Warning:  file_get_contents(http://sound19.mp3pk.com/pakistani/jalpari/jalpari11(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Aug-2011 04:08:23] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/aur_pyar_ho_gaya/4(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[20-Aug-2011 07:36:00] PHP Warning:  file_get_contents(http://kkswami.com/main/mp3/Vaisnava_Seva_05_Radhe_Govinda_Meditation.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[22-Aug-2011 10:05:06] PHP Warning:  file_get_contents(http://sound25.mp3pk.com/indian/chillarparty/chillarparty01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[26-Aug-2011 12:20:59] PHP Warning:  file_get_contents(http://sound.mp3pk.com/indian/veer_zaraa/10(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[27-Aug-2011 03:32:15] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dil_kya_kare/7dkk(songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Aug-2011 02:07:01] PHP Warning:  file_get_contents(http://dl.mp3.zdn.vn/fsfsdfdsfdserwrwq3/6c04da071fb6560b499258b1b3c56652/4e25b810/5/34/5349496497fecc3f3387c79af6ec8e09.mp3?filename=Se%20Thuoc%20Ve%20Nhau%20-%20Khoi%20My.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 408 Request Timeout
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[30-Aug-2011 02:07:45] PHP Warning:  file_get_contents(http://dl.mp3.zdn.vn/fsfsdfdsfdserwrwq3/6c04da071fb6560b499258b1b3c56652/4e25b810/5/34/5349496497fecc3f3387c79af6ec8e09.mp3?filename=Se%20Thuoc%20Ve%20Nhau%20-%20Khoi%20My.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 408 Request Timeout
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[31-Aug-2011 02:01:25] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/ghulam/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[31-Aug-2011 02:08:07] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/ghulam/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[04-Sep-2011 22:59:57] PHP Warning:  file_get_contents(http://sound.mp3pk.com/indian/veer_zaraa/7(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[09-Sep-2011 00:42:34] PHP Warning:  file_get_contents(http://sound18.mp3pk.com/indian/delhibelly/delhibelly01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[09-Sep-2011 00:44:28] PHP Warning:  file_get_contents(http://sound18.mp3pk.com/indian/delhibelly/delhibelly01(www.songs.pk).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[14-Sep-2011 22:42:04] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/aashiq_banaya_aapne/8(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[14-Sep-2011 22:44:05] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/aashiq_banaya_aapne/8(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[16-Sep-2011 08:33:25] PHP Warning:  file_get_contents(http://dl.mp3.zdn.vn/fsfsdfdsfdserwrwq3/6c04da071fb6560b499258b1b3c56652/4e25b810/5/34/5349496497fecc3f3387c79af6ec8e09.mp3?filename=Se%20Thuoc%20Ve%20Nhau%20-%20Khoi%20My.mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 408 Request Timeout
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[18-Sep-2011 04:06:08] PHP Warning:  file_get_contents(http://sound.mp3pk.com/indian/veer_zaraa/8(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Sep-2011 15:46:22] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/devdas/2(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[21-Sep-2011 15:48:40] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/devdas/2(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Sep-2011 09:38:50] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dhoom/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Sep-2011 09:38:52] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dhoom/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Sep-2011 09:38:54] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dhoom/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42
+[25-Sep-2011 09:38:58] PHP Warning:  file_get_contents(http://soundx.mp3pk.com/indian/dhoom/1(mp3pk.com).mp3) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home1/mgooscom/public_html/beta/captcha/html-contact-form.php on line 42

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<skin version="2.0.0">
+
+	<!-- preloader -->
+	<preloader bgcolor="0x666666" x="50%" y="50%" width="50%" height="5">
+		<element id="INDICATOR" bgcolor="0xFFFFFF" width="100%" height="100%" />
+	</preloader>
+	
+	<!-- fonts -->
+	<font id="FONT1" src="arial-timer.swf" />
+	<font id="FONT2" src="verdana.swf" />
+	
+	<!-- background image -->
+	<image src="bg.jpg" width="100%" height="100%" />
+	<bar src="display-bg.png" width="100%" margin="4" />
+	<image src="display-light.jpg" width="100%" height="95" margin="6" />
+	
+	<!-- timer display -->
+	<textfield id="TIME" width="60%" x="80" y="12"
+		text="00:00" 
+		font="FONT1" 
+		font_color="0x20B3FF" 
+		font_size="22" 
+	/>
+	
+	<element x="140" y="20" >
+		<animation id="BUFFERING" visible="false" src="anim-loading.png"  frames="8" speed="0.2" />
+		<image id="ERROR" visible="false" src="icon-error.png" />
+		<image id="STOPPED" visible="true" src="icon-stopped.png" />
+		<image id="PLAYING" visible="false" src="icon-playing.png" />
+		<image id="PAUSED" visible="false" src="icon-paused.png" />
+	</element>
+
+	<textfield id="CUR_CREATORNAME" width="60%" x="82" y="40" scroll="true"
+		text="E-Phonic" 
+		font="FONT2"
+		font_color="0xE9F4FA"
+		font_size="9"
+	/>
+		
+	<textfield id="CUR_SONGNAME" width="60%" x="82" y="54" scroll="true"
+		text="Welcome to EP Player" 
+		font="FONT2"
+		font_color="0xE9F4FA"
+		font_size="9"
+	/>
+		
+	<!-- album art -->
+	<element width="64" height="64" margin="11">
+		<image src="default-albumart.gif" x="50%" width="64" height="64"  />
+		<image id="ALBUM_ART" width="56" height="56" margin="4" />
+	</element>
+		
+	<!-- visualization -->
+
+	<image src="visualization-bg.jpg" x="100%" width="50%" margin="11 11 0 118" />
+		
+	<element x="100%" width="50%" height="64" margin="11 11 0 118">
+		<visualization width="100%" height="100%">
+			<image id="FFT" src="fft.gif" width="100%" height="100%"/>
+			<image id="SCOPE" src="scope.gif" width="100%" height="100%" />
+			<image id="PEAK" src="fft.gif" width="100%" height="100%" />
+			<image id="WAVE" src="scope.gif" width="100%" height="100%" />
+		</visualization>
+	</element>
+	
+	<element width="100%" y="116" margin="4">
+	
+		<bar src="bar-control-bg.png" orientation="h"  width="100%" />
+		
+		<slider id="TRANSPORT" orientation="h" width="100%" margin="6 95 0 10">
+			<bar id="BACKGROUND" src="bar-slider-bg.png" />
+			<bar id="INDICATOR" src="bar-slider-indicator.png" />
+			<button id="HANDLE" src="bar-slider-handle.png" />
+		</slider>
+			
+		<slider id="VOLUME" orientation="h" x="100%" width="55"  margin="4 11 0 0">
+			<bar id="BACKGROUND" src="bar-slider-bg-volume.png" />
+			<bar id="INDICATOR" src="bar-slider-indicator-volume.png" />
+			<button id="HANDLE" src="bar-slider-handle-volume.png" />
+		</slider>
+			
+		<button id="MUTE" toggle="true" src="b-mute.png" y="4" x="100%" margin="1 72 0 0" />
+			
+	</element>
+		
+	<element x="50%" y="73" width="121" height="53">
+		<image src="buttons-bg.png" width="121" height="53" />
+		<button id="PREV" src="b-prev.png" x="6" y="12" />
+		<button id="PLAY_PAUSE" toggle="true" src="b-play-pause.png" x="40" y="6" />
+		<button id="NEXT" src="b-next.png" x="88" y="12" />
+	</element>
+			
+	<button id="SHUFFLE" toggle="true" src="b-shuffle.png" y="85" x="100%" margin="0 32 0 0" />
+	<button id="REPEAT" toggle="true" y="85" src="b-repeat.png" x="100%" margin="0 12 0 0" />
+	
+	<!-- playlist -->
+	<element y="141" width="100%" height="100%" margin="4">
+		
+		<bar src="playlist-bg-top.png" width="100%" />
+		<element bgcolor="0x0E171C" width="100%" height="100%" margin="3 0 3 0" />
+		<bar src="playlist-bg-bottom.png" y="100%" width="100%" />
+		<image src="playlist-light.jpg" width="100%" height="100%" margin="2" />
+			
+		<scrollbox width="100%" height="100%" scroll_speed="39" margin="2" >
+				
+			<playlist width="100%" height="100%" >
+				<playlist_item width="100%" height="39" >
+					
+					<button id="PLAY" toggle="true" src="b-playlist.png" width="100%" />
+
+					<textfield id="CREATORNAME_SONGNAME" width="100%" margin="2 0 0 10" y="8"
+						text="" 
+						font="FONT2"
+						font_color="0xE9F4FA"
+						font_size="9"
+					/>
+						
+					<button id="JSCALL" src="b-link.gif" x="100%" margin="12 10 0 0" />
+						
+				</playlist_item>
+			</playlist>
+				
+			<!-- vertical scrollbar -->
+			<scrollbar orientation="v" height="100%" width="10" x="100%">
+				<bar id="BACKGROUND" height="100%" src="scrollbar-y-bg.png" />
+				<bar id="HANDLE" src="scrollbar-y-handle.png" />
+			</scrollbar>
+				
+			<animation id="LOADING_PLAYLIST" src="anim-loading.png" x="50%" y="50%" frames="8" speed="0.2" />
+			<image id="ERROR_PLAYLIST" visible="false" src="icon-error.png" x="50%" y="50%" />	
+									
+		</scrollbox>
+		
+	</element>
+</skin>
